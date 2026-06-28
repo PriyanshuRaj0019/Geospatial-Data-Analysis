@@ -1,0 +1,601 @@
+city,state,Total_Sales,Customers,Orders,Opportunity_Score,Cluster
+Jacksonville,Florida,39133.328,38,38,0.9783333333333334,Medium Potential
+New York City,New York,252462.547,349,439,0.9771666666666667,High Potential
+Detroit,Michigan,42446.944,50,53,0.9740000000000001,Medium Potential
+Seattle,Washington,116106.322,187,210,0.9728333333333333,High Potential
+San Antonio,Texas,21843.528,27,27,0.9700000000000001,Medium Potential
+Los Angeles,California,173420.181,300,378,0.9679999999999999,High Potential
+Newark,Delaware,20319.98,28,28,0.9667083333333333,Medium Potential
+San Diego,California,47521.029,86,88,0.9654166666666667,Medium Potential
+Atlanta,Georgia,17197.84,17,17,0.9642916666666668,Medium Potential
+San Francisco,California,109041.12,230,261,0.9590833333333333,High Potential
+Philadelphia,Pennsylvania,108841.749,237,262,0.9589166666666666,High Potential
+Minneapolis,Minnesota,16870.54,13,13,0.9578333333333333,Medium Potential
+Henderson,Kentucky,15661.01,17,17,0.957625,Medium Potential
+Springfield,Virginia,16628.53,25,25,0.9569166666666667,Medium Potential
+Providence,Rhode Island,15980.65,13,13,0.9545,Medium Potential
+Jackson,Michigan,15420.036,14,14,0.9534583333333334,Medium Potential
+Houston,Texas,63956.1428,170,186,0.9483333333333334,High Potential
+Arlington,Virginia,14366.76,21,21,0.9480000000000001,Medium Potential
+Springfield,Missouri,15051.380000000001,13,14,0.9475,Medium Potential
+Charlotte,North Carolina,13450.987000000001,23,23,0.9435416666666667,Low Potential
+Denver,Colorado,12198.793,17,17,0.9423750000000001,Low Potential
+Lakewood,New Jersey,14843.1,10,10,0.9420000000000001,Medium Potential
+Chicago,Illinois,47820.133,150,166,0.9402499999999999,Medium Potential
+Milwaukee,Wisconsin,10469.039999999999,22,22,0.9301666666666666,Low Potential
+Columbus,Georgia,14801.369999999999,36,39,0.9286666666666668,Low Potential
+Lafayette,Indiana,19624.510000000002,6,6,0.928,Medium Potential
+Dallas,Texas,20127.9482,77,79,0.9274166666666668,Low Potential
+Columbia,Maryland,10962.35,9,9,0.9265416666666666,Medium Potential
+Columbus,Ohio,15900.793,52,55,0.9259166666666667,Low Potential
+Phoenix,Arizona,11000.257,28,29,0.921875,Low Potential
+Burlington,North Carolina,12681.282,7,7,0.92125,Medium Potential
+Lancaster,Ohio,8202.625,15,15,0.9209166666666666,Low Potential
+Newark,Ohio,8128.0689999999995,16,16,0.918875,Low Potential
+Columbus,Indiana,7960.4,16,16,0.9167916666666668,Low Potential
+Long Beach,New York,8434.1,21,21,0.9143333333333334,Low Potential
+North Las Vegas,Nevada,9801.002,7,7,0.9139999999999999,Medium Potential
+Buffalo,New York,9063.496,7,7,0.9117500000000001,Medium Potential
+Fresno,California,7888.5285,10,11,0.9081666666666668,Low Potential
+Aurora,Illinois,7572.968,20,20,0.9045416666666667,Low Potential
+Jackson,Mississippi,7426.61,17,18,0.9042916666666668,Low Potential
+Miami,Florida,8647.8265,33,33,0.9038333333333333,Low Potential
+Louisville,Kentucky,7275.39,16,17,0.9027916666666668,Low Potential
+Tallahassee,Florida,7250.669,9,9,0.9023750000000001,Medium Potential
+Sacramento,California,7311.278,8,8,0.9015,Medium Potential
+Huntsville,Texas,6710.6168,10,10,0.89975,Low Potential
+Richmond,Kentucky,6646.16,13,13,0.8995833333333333,Low Potential
+Fort Worth,Texas,6602.7064,12,12,0.8978333333333334,Low Potential
+Roswell,Georgia,6652.32,9,9,0.8974583333333334,Medium Potential
+Oklahoma City,Oklahoma,6596.820000000001,11,11,0.8972083333333334,Low Potential
+Yonkers,New York,7657.666,6,6,0.8948333333333334,Medium Potential
+Omaha,Nebraska,6312.53,14,14,0.8928750000000001,Low Potential
+Wilmington,Delaware,6553.899,9,9,0.892625,Low Potential
+Columbia,South Carolina,6168.16,11,11,0.890625,Low Potential
+Burlington,Vermont,8929.369999999999,5,6,0.8862916666666666,Medium Potential
+Tucson,Arizona,6313.016,12,13,0.8855,Low Potential
+Lawrence,Massachusetts,6109.062,15,15,0.8854166666666667,Low Potential
+Baltimore,Maryland,6156.842000000001,21,21,0.8825000000000001,Low Potential
+Nashville,Tennessee,6070.863,16,16,0.8820416666666666,Low Potential
+Chesapeake,Virginia,5996.72,10,10,0.882,Low Potential
+Oakland,California,5964.418,13,13,0.88125,Low Potential
+Austin,Texas,6057.982,18,18,0.8805000000000001,Low Potential
+Memphis,Tennessee,5942.341,14,14,0.8787916666666667,Low Potential
+Rochester,New York,6017.13,20,20,0.877125,Low Potential
+Arlington,Texas,5847.772,10,10,0.8769166666666666,Low Potential
+Virginia Beach,Virginia,5752.13,11,11,0.8741249999999999,Low Potential
+Springfield,Oregon,5761.265,15,15,0.8718333333333333,Low Potential
+Richmond,Indiana,5876.45,12,13,0.8696666666666666,Low Potential
+Everett,Massachusetts,5661.878,8,8,0.8679166666666667,Low Potential
+San Jose,California,6071.229,17,20,0.8674583333333334,Low Potential
+Tulsa,Oklahoma,5556.97,13,13,0.86625,Low Potential
+Franklin,Massachusetts,5534.559,9,9,0.8644583333333333,Low Potential
+Clinton,Maryland,5514.251,10,10,0.8640000000000001,Low Potential
+Anaheim,California,5600.548,7,7,0.8620833333333333,Low Potential
+Jacksonville,North Carolina,5579.8550000000005,23,23,0.8587083333333334,Low Potential
+Lakeland,Florida,5606.8865000000005,6,6,0.8584166666666667,Low Potential
+Lafayette,Louisiana,5319.7699999999995,9,9,0.8572916666666667,Low Potential
+Columbia,Tennessee,5162.774,10,10,0.8533333333333334,Low Potential
+Alexandria,Virginia,5519.57,6,6,0.8526666666666667,Low Potential
+Tampa,Florida,5196.0805,14,14,0.851375,Low Potential
+Cleveland,Ohio,5281.503,19,19,0.8509166666666667,Low Potential
+Richmond,Virginia,5141.26,13,13,0.8480000000000001,Low Potential
+Fort Lauderdale,Florida,4855.2125,11,11,0.8440416666666667,Medium Potential
+Fairfield,Connecticut,4935.577,12,12,0.8433333333333333,Low Potential
+Indianapolis,Indiana,4834.1,11,11,0.8402916666666667,Low Potential
+Louisville,Colorado,4803.896,11,11,0.838875,Low Potential
+Brentwood,California,5090.114,6,6,0.8385833333333333,Low Potential
+Lowell,Massachusetts,4837.93,7,7,0.8359166666666666,Low Potential
+Midland,Michigan,5291.512,5,5,0.8349583333333334,Medium Potential
+Concord,North Carolina,5111.844,5,5,0.8287916666666667,Medium Potential
+Morristown,New Jersey,5033.099999999999,5,5,0.8261249999999999,Medium Potential
+Toledo,Ohio,4358.935,15,15,0.8253333333333334,Low Potential
+Springfield,Ohio,4386.635,17,17,0.8252083333333334,Low Potential
+Raleigh,North Carolina,4312.692,12,12,0.8218333333333333,Low Potential
+Mobile,Alabama,5462.99,4,4,0.8215416666666666,Medium Potential
+Madison,Wisconsin,5346.79,4,4,0.8198749999999999,Medium Potential
+Franklin,Wisconsin,4774.25,5,5,0.8175416666666666,Medium Potential
+Aurora,Colorado,4083.5099999999998,15,15,0.8171666666666667,Low Potential
+Mesa,Arizona,4037.7400000000002,14,14,0.815375,Low Potential
+Watertown,New York,4044.998,7,7,0.8133333333333334,Medium Potential
+Dover,New Hampshire,4428.954,5,5,0.8120416666666667,Medium Potential
+Knoxville,Tennessee,3928.166,10,10,0.8111666666666667,Low Potential
+Portland,Oregon,3905.181,14,14,0.8095416666666666,Low Potential
+Pasadena,California,4112.688,10,11,0.8074166666666667,Low Potential
+Lakeville,Minnesota,4260.95,5,5,0.8059583333333333,Low Potential
+Oceanside,New York,3851.126,8,8,0.8053333333333333,Low Potential
+Long Beach,California,3874.742,10,10,0.80525,Low Potential
+Gilbert,Arizona,4172.382,5,5,0.8040416666666668,Low Potential
+Fayetteville,Arkansas,3742.8100000000004,8,8,0.8001666666666668,Low Potential
+Amarillo,Texas,3773.0628,7,7,0.7994166666666668,Low Potential
+Colorado Springs,Colorado,3694.009,9,9,0.7944583333333334,Low Potential
+Harrisonburg,Virginia,4388.71,4,4,0.7932083333333334,Medium Potential
+Plainfield,New Jersey,3727.92,6,6,0.7930833333333334,Low Potential
+Montgomery,Alabama,3722.73,6,6,0.7918333333333334,Low Potential
+El Paso,Texas,3546.064,10,10,0.7897500000000001,Low Potential
+Plano,Texas,3530.3746,8,8,0.7888333333333333,Low Potential
+Little Rock,Arkansas,3560.35,6,6,0.78725,Low Potential
+Decatur,Alabama,3374.82,7,7,0.78325,Low Potential
+Cranston,Rhode Island,3921.9860000000003,4,4,0.7800416666666666,Low Potential
+Round Rock,Texas,4854.0527999999995,3,3,0.7786666666666666,Medium Potential
+Fayetteville,North Carolina,3183.116,12,12,0.7781666666666668,Low Potential
+Santa Barbara,California,3896.048,4,4,0.7764583333333334,Medium Potential
+Troy,Ohio,3180.535,8,8,0.7740833333333335,Low Potential
+Rockford,Illinois,3166.228,8,8,0.7726666666666666,Low Potential
+Des Moines,Washington,3454.438,5,5,0.7725416666666667,Medium Potential
+Great Falls,Montana,4605.58,3,3,0.7713333333333333,Medium Potential
+Florence,Kentucky,4541.8,3,3,0.7700833333333333,Medium Potential
+Santa Ana,California,3366.31,7,8,0.7698333333333335,Low Potential
+Newport News,Virginia,3321.9500000000003,5,5,0.7680416666666667,Low Potential
+Marion,Ohio,3010.986,8,8,0.7661666666666667,Low Potential
+Glendale,Arizona,2917.865,13,13,0.7636666666666667,Low Potential
+Decatur,Illinois,2959.297,8,8,0.76225,Low Potential
+Inglewood,California,3479.328,4,4,0.7592083333333334,Low Potential
+Concord,New Hampshire,2827.63,10,10,0.7576666666666667,Low Potential
+Orem,Utah,2994.0879999999997,5,5,0.7562916666666666,Low Potential
+Kenosha,Wisconsin,3906.73,3,3,0.7538333333333334,Medium Potential
+Akron,Ohio,2724.244,9,9,0.7534583333333333,Low Potential
+Jonesboro,Arkansas,2915.32,5,5,0.7491249999999999,Low Potential
+Parma,Ohio,3815.788,3,3,0.7475833333333334,Medium Potential
+Concord,California,2602.928,6,6,0.7444166666666667,Low Potential
+Hampton,Virginia,2722.26,5,5,0.7404583333333333,Low Potential
+Fairfield,Ohio,2512.217,8,8,0.7398333333333333,Low Potential
+Westminster,California,3583.486,3,3,0.7385833333333334,Low Potential
+Pasadena,Texas,2477.458,9,9,0.7370416666666667,Low Potential
+Huntsville,Alabama,2484.3700000000003,7,7,0.7355833333333334,Low Potential
+Redlands,California,2891.021,4,4,0.7334583333333333,Low Potential
+Huntington Beach,California,2527.82,5,5,0.7325416666666668,Medium Potential
+Washington,District of Columbia,2865.02,4,4,0.731875,Low Potential
+Jamestown,New York,4708.79,2,2,0.7318333333333334,Medium Potential
+Edmonds,Washington,2523.692,5,5,0.7312916666666667,Low Potential
+Greensboro,North Carolina,2406.78,8,8,0.73075,Low Potential
+Hialeah,Florida,2338.949,10,10,0.7299166666666668,Low Potential
+Provo,Utah,2761.234,4,4,0.728375,Low Potential
+Hempstead,New York,2589.586,4,4,0.7220416666666667,Low Potential
+Albuquerque,New Mexico,2220.16,7,7,0.72175,Low Potential
+Waynesboro,Virginia,3058.77,3,3,0.7205833333333334,Low Potential
+Dublin,Ohio,2379.16,5,5,0.719375,Low Potential
+Paterson,New Jersey,2243.21,6,6,0.7185833333333334,Low Potential
+Columbia,Missouri,2990.04,3,3,0.7168333333333333,Low Potential
+Marietta,Georgia,2938.62,3,3,0.7139166666666666,Medium Potential
+Warwick,Rhode Island,2426.84,4,4,0.710375,Medium Potential
+Bellingham,Washington,3790.24,2,2,0.7080833333333334,Medium Potential
+Carrollton,Texas,2047.5339999999999,7,7,0.70375,Low Potential
+Mount Vernon,New York,2119.632,5,5,0.7016249999999999,Low Potential
+Greenville,North Carolina,2117.83,5,5,0.700375,Low Potential
+Jackson,Tennessee,2117.212,5,5,0.699125,Low Potential
+Sparks,Nevada,2561.96,3,3,0.69875,Medium Potential
+Salem,Virginia,2039.55,6,6,0.6985833333333333,Low Potential
+Gresham,Oregon,2133.424,4,4,0.6934583333333333,Medium Potential
+Riverside,California,1944.2459999999999,9,9,0.693125,Low Potential
+Smyrna,Georgia,2130.0,4,4,0.6922083333333333,Low Potential
+Rochester,Minnesota,1957.4,8,8,0.6920833333333334,Low Potential
+Medina,Ohio,2477.722,3,3,0.692,Low Potential
+Manchester,Connecticut,2126.28,4,4,0.6909583333333335,Low Potential
+Broken Arrow,Oklahoma,2439.53,3,3,0.6896666666666668,Medium Potential
+Spokane,Washington,2027.9180000000001,5,5,0.6885416666666667,Low Potential
+Lorain,Ohio,2015.1109999999999,5,5,0.687125,Low Potential
+Lakewood,Ohio,1756.324,13,13,0.6869999999999999,Low Potential
+Torrance,California,3132.268,2,2,0.6868333333333334,Medium Potential
+Des Moines,Iowa,2008.8400000000001,5,5,0.6858750000000001,Low Potential
+Noblesville,Indiana,3091.1800000000003,2,2,0.6854166666666668,Medium Potential
+Las Vegas,Nevada,1834.02,8,8,0.6840833333333334,Low Potential
+Clarksville,Tennessee,2217.73,3,3,0.679,Low Potential
+Sandy Springs,Georgia,1997.03,4,4,0.6737916666666667,Low Potential
+Monroe,Louisiana,1757.37,6,6,0.6735,Low Potential
+Chester,Pennsylvania,1968.4789999999998,4,4,0.6723750000000002,Low Potential
+Orlando,Florida,1740.08,6,6,0.6697500000000001,Low Potential
+Cincinnati,Ohio,1611.976,12,12,0.6681666666666666,Low Potential
+Belleville,New Jersey,1891.6000000000001,4,4,0.6654583333333333,Low Potential
+Westland,Michigan,2057.976,3,3,0.6637500000000001,Low Potential
+Bowling Green,Ohio,1865.565,4,4,0.6629583333333333,Low Potential
+Chico,California,2050.178,3,3,0.6623333333333334,Low Potential
+Highland Park,Illinois,2035.096,3,3,0.6589166666666667,Low Potential
+Trenton,Michigan,1765.1950000000002,4,4,0.655625,Low Potential
+Florence,Alabama,1997.35,3,3,0.6540833333333333,Medium Potential
+Independence,Missouri,2417.37,2,2,0.6522500000000001,Medium Potential
+Redondo Beach,California,1959.803,3,3,0.6503333333333334,Low Potential
+Perth Amboy,New Jersey,1717.08,4,4,0.6467083333333334,Low Potential
+Apple Valley,California,1915.0810000000001,3,3,0.6465833333333334,Low Potential
+Pembroke Pines,Florida,1714.3754999999999,4,4,0.6454583333333334,Low Potential
+Roseville,Minnesota,2215.52,2,2,0.6438333333333334,Low Potential
+Pasco,Washington,2201.112,2,2,0.6424166666666666,Low Potential
+Lawrence,Indiana,1545.13,6,6,0.6416666666666666,Low Potential
+Pleasant Grove,Utah,2138.178,2,2,0.6408333333333334,Low Potential
+Pueblo,Colorado,1686.9379999999999,4,4,0.6407083333333333,Low Potential
+Lakewood,California,1583.683,5,5,0.6399583333333333,Low Potential
+Georgetown,Kentucky,1786.42,3,3,0.6396666666666668,Low Potential
+Burbank,California,3247.1580000000004,1,1,0.6383333333333333,Medium Potential
+Auburn,Alabama,1766.83,3,3,0.6380833333333333,Low Potential
+Eau Claire,Wisconsin,1645.65,4,4,0.6362916666666667,Low Potential
+Meriden,Connecticut,1550.6799999999998,5,5,0.6362083333333333,Low Potential
+Scottsdale,Arizona,1466.307,7,7,0.6341666666666667,Low Potential
+Asheville,North Carolina,1475.376,6,6,0.6338333333333334,Low Potential
+Evanston,Illinois,1753.799,3,3,0.6332500000000001,Medium Potential
+Salem,Oregon,1404.695,9,9,0.6314583333333333,Low Potential
+Hattiesburg,Mississippi,1722.84,3,3,0.6300833333333333,Low Potential
+Pomona,California,1482.502,5,5,0.6282083333333334,Low Potential
+Suffolk,Virginia,1597.9,4,4,0.6274583333333333,Low Potential
+Bakersfield,California,1377.29,8,8,0.625,Low Potential
+Oxnard,California,1558.1000000000001,4,4,0.6230416666666666,Low Potential
+Auburn,New York,1384.158,6,6,0.6168333333333332,Low Potential
+Lansing,Michigan,1610.286,3,3,0.6152500000000001,Low Potential
+Beverly,Massachusetts,2583.19,1,1,0.6139166666666667,Medium Potential
+Henderson,Nevada,1888.0580000000002,2,2,0.6126666666666667,Medium Potential
+Troy,New York,1326.556,6,6,0.60775,Low Potential
+Miramar,Florida,1531.192,3,3,0.60275,Low Potential
+Athens,Georgia,1434.72,4,4,0.6025416666666666,Low Potential
+Peoria,Arizona,1341.352,5,5,0.6018749999999999,Low Potential
+Muskogee,Oklahoma,1721.7,2,2,0.5994166666666667,Medium Potential
+Waterbury,Connecticut,1326.06,5,5,0.598125,Low Potential
+Bethlehem,Pennsylvania,1689.6339999999998,2,2,0.5955,Low Potential
+Dubuque,Iowa,1687.3,2,2,0.5942500000000001,Medium Potential
+Appleton,Wisconsin,1671.31,2,2,0.5919166666666666,Medium Potential
+Naperville,Illinois,1288.3029999999999,5,5,0.5917083333333334,Low Potential
+Monroe,North Carolina,1213.0639999999999,6,6,0.591,Low Potential
+Greenwood,Indiana,1665.0500000000002,2,2,0.5905,Medium Potential
+Moreno Valley,California,1262.4660000000001,5,5,0.5896250000000001,Low Potential
+Plantation,Florida,1436.836,3,3,0.5885,Low Potential
+Lake Forest,California,1625.536,2,2,0.5878333333333333,Low Potential
+Fremont,Nebraska,1119.0099999999998,7,7,0.5875833333333333,Low Potential
+Lancaster,Pennsylvania,1211.395,7,8,0.5863333333333334,Low Potential
+Stockton,California,1227.6,5,5,0.5855416666666666,Low Potential
+San Gabriel,California,2061.01,1,1,0.5854166666666667,Medium Potential
+Hollywood,Florida,1070.474,8,8,0.58525,Low Potential
+Dearborn,Michigan,1603.3100000000002,2,2,0.5839166666666666,Low Potential
+Tigard,Oregon,1393.7820000000002,3,3,0.5820833333333334,Low Potential
+Brownsville,Texas,1292.2268000000001,4,4,0.5817916666666667,Low Potential
+Saint Charles,Illinois,1388.71,3,3,0.5808333333333333,Low Potential
+Tempe,Arizona,1070.3020000000001,6,6,0.5764166666666668,Low Potential
+Kent,Washington,1351.2540000000001,3,3,0.5751666666666666,Low Potential
+Middletown,Connecticut,1154.61,6,7,0.5748333333333333,Low Potential
+Pharr,Texas,1540.708,2,2,0.5747500000000001,Low Potential
+Pocatello,Idaho,1344.942,3,3,0.5739166666666667,Low Potential
+Lehi,Utah,1516.726,2,2,0.5724166666666667,Medium Potential
+Des Plaines,Illinois,1493.212,2,2,0.5710000000000001,Low Potential
+Fairfield,California,1470.584,2,2,0.56725,Low Potential
+Grand Prairie,Texas,1012.486,7,7,0.5663333333333332,Low Potential
+Camarillo,California,1467.5175,2,2,0.5660000000000001,Low Potential
+Chandler,Arizona,1067.403,5,5,0.562875,Low Potential
+Hackensack,New Jersey,1456.16,2,2,0.5624166666666667,Low Potential
+Southaven,Mississippi,1455.39,2,2,0.5611666666666667,Low Potential
+Chattanooga,Tennessee,988.803,6,6,0.5609166666666667,Low Potential
+Costa Mesa,California,1117.534,4,4,0.5574583333333333,Low Potential
+Bloomington,Illinois,963.94,6,6,0.5570833333333334,Low Potential
+Bossier City,Louisiana,1417.18,2,2,0.5569166666666667,Low Potential
+Tamarac,Florida,1413.51,2,2,0.5555,Low Potential
+Franklin,Tennessee,948.228,6,6,0.5526666666666668,Low Potential
+Vallejo,California,1221.41,3,3,0.5524166666666668,Low Potential
+Hesperia,California,1213.1715,3,3,0.5506666666666666,Low Potential
+Florence,South Carolina,1064.57,4,4,0.5477083333333334,Low Potential
+Norman,Oklahoma,1351.3300000000002,2,2,0.5473333333333333,Medium Potential
+Redmond,Oregon,1043.027,4,4,0.5432083333333334,Low Potential
+Quincy,Massachusetts,946.175,5,5,0.540625,Low Potential
+Cheyenne,Wyoming,1603.136,1,1,0.5403333333333333,Medium Potential
+Laredo,Texas,1024.34,4,4,0.5402083333333333,Low Potential
+Sioux Falls,South Dakota,1137.42,3,3,0.5398333333333334,Low Potential
+Fort Collins,Colorado,935.252,5,5,0.5393749999999999,Low Potential
+Superior,Wisconsin,1299.73,2,2,0.5376666666666666,Low Potential
+Passaic,New Jersey,1562.086,1,1,0.5367500000000001,Low Potential
+Boise,Idaho,1094.47,3,3,0.5338333333333333,Low Potential
+New Rochelle,New York,977.658,4,4,0.5325416666666667,Low Potential
+Durham,North Carolina,879.96,5,5,0.5277083333333333,Low Potential
+Wheeling,West Virginia,1209.824,2,2,0.5239166666666667,Low Potential
+Chula Vista,California,1041.62,3,3,0.5228333333333334,Low Potential
+Eugene,Oregon,1465.032,1,1,0.5216666666666667,Low Potential
+Bangor,Maine,1164.45,2,2,0.5208333333333334,Low Potential
+La Porte,Indiana,1021.34,3,3,0.5203333333333333,Low Potential
+Olympia,Washington,1020.448,3,3,0.5190833333333333,Low Potential
+Wilmington,North Carolina,743.1619999999999,9,9,0.5170416666666666,Low Potential
+Deltona,Florida,893.24,4,4,0.5154583333333334,Low Potential
+Wichita,Kansas,825.27,5,5,0.5137083333333333,Low Potential
+Milford,Connecticut,961.74,3,3,0.5109166666666667,Low Potential
+Reading,Pennsylvania,873.7120000000001,4,4,0.5084583333333333,Low Potential
+Mcallen,Texas,866.716,4,4,0.5070416666666666,Low Potential
+Avondale,Arizona,946.808,3,3,0.5068333333333334,Low Potential
+Parker,Colorado,1067.942,2,2,0.5066666666666666,Low Potential
+Salt Lake City,Utah,802.776,5,5,0.5057083333333333,Low Potential
+Roseville,California,734.776,7,7,0.5048333333333334,Low Potential
+Saint Cloud,Minnesota,1331.82,1,1,0.5036666666666667,Medium Potential
+Lawton,Oklahoma,1057.49,2,2,0.5023333333333333,Low Potential
+Smyrna,Tennessee,848.579,4,4,0.5018750000000001,Low Potential
+Dearborn Heights,Michigan,1051.5700000000002,2,2,0.5010833333333333,Low Potential
+Yuma,Arizona,840.865,4,4,0.500625,Low Potential
+Carol Stream,Illinois,1305.81,1,1,0.50025,Low Potential
+Apopka,Florida,904.554,3,3,0.5000833333333333,Low Potential
+Richardson,Texas,1288.4640000000002,1,1,0.4963333333333333,Medium Potential
+Saint Petersburg,Florida,753.184,5,5,0.49545833333333333,Low Potential
+Coral Springs,Florida,824.992,4,4,0.494375,Low Potential
+Renton,Washington,1242.6319999999998,1,1,0.4925833333333333,Medium Potential
+South Bend,Indiana,1238.33,1,1,0.49133333333333334,Low Potential
+Woodstock,Illinois,857.2500000000001,3,3,0.48491666666666666,Low Potential
+Danville,California,1158.882,1,1,0.48225,Low Potential
+Odessa,Texas,976.1239999999999,3,4,0.4819166666666667,Low Potential
+Twin Falls,Idaho,1148.806,1,1,0.48033333333333333,Medium Potential
+Revere,Massachusetts,833.26,3,3,0.47891666666666666,Low Potential
+Fargo,North Dakota,919.91,2,2,0.4783333333333334,Low Potential
+Longmont,Colorado,915.088,2,2,0.47675,Low Potential
+Rio Rancho,New Mexico,1114.192,1,1,0.47583333333333333,Medium Potential
+Olathe,Kansas,895.79,2,2,0.47358333333333336,Low Potential
+Salinas,California,728.8910000000001,4,4,0.4729583333333333,Low Potential
+Bristol,Connecticut,814.58,3,3,0.4703333333333333,Low Potential
+Elmhurst,Illinois,891.6279999999999,2,2,0.4701666666666667,Low Potential
+Ann Arbor,Michigan,889.273,2,2,0.46875000000000006,Low Potential
+Irving,Texas,605.5,5,5,0.46762500000000007,Low Potential
+Maple Grove,Minnesota,882.87,2,2,0.4675,Low Potential
+League City,Texas,875.3679999999999,2,2,0.4645000000000001,Low Potential
+Mission Viejo,California,775.986,3,3,0.4623333333333333,Low Potential
+Vineland,New Jersey,647.966,4,4,0.461625,Low Potential
+El Cajon,California,865.616,2,2,0.46058333333333334,Medium Potential
+Johnson City,Tennessee,765.848,3,3,0.4604166666666667,Low Potential
+Skokie,Illinois,568.832,5,5,0.45962500000000006,Low Potential
+Thornton,Colorado,765.248,3,3,0.45916666666666667,Low Potential
+Roseville,Michigan,638.33,4,4,0.458625,Low Potential
+Allentown,Pennsylvania,853.252,2,2,0.45758333333333334,Low Potential
+Port Arthur,Texas,737.0528,3,3,0.45275,Low Potential
+Waco,Texas,606.1072,4,4,0.45262499999999994,Low Potential
+Buffalo Grove,Illinois,831.399,2,2,0.45175000000000004,Medium Potential
+Edmond,Oklahoma,959.55,1,1,0.4509166666666667,Medium Potential
+La Crosse,Wisconsin,830.41,2,2,0.45033333333333336,Low Potential
+Bloomington,Indiana,603.8,4,4,0.450125,Low Potential
+Lubbock,Texas,592.564,4,4,0.44870833333333326,Low Potential
+Farmington,New Mexico,718.72,3,3,0.4479166666666667,Low Potential
+Canton,Michigan,818.13,2,2,0.44625000000000004,Low Potential
+York,Pennsylvania,817.978,2,2,0.445,Low Potential
+Vancouver,Washington,686.836,3,3,0.44383333333333336,Low Potential
+Park Ridge,Illinois,685.0,3,3,0.44258333333333333,Low Potential
+Gastonia,North Carolina,895.06,1,1,0.44,Low Potential
+Oceanside,California,499.61199999999997,5,5,0.439625,Low Potential
+Broomfield,Colorado,793.504,2,2,0.4386666666666667,Low Potential
+Dover,Delaware,449.12,6,6,0.4384166666666667,Low Potential
+Texas City,Texas,790.972,2,2,0.43725,Low Potential
+Reno,Nevada,644.062,3,3,0.43641666666666673,Low Potential
+Mishawaka,Indiana,776.24,2,2,0.4355,Low Potential
+Green Bay,Wisconsin,527.3199999999999,4,4,0.434125,Low Potential
+Freeport,New York,523.3299999999999,4,4,0.43162500000000004,Low Potential
+Overland Park,Kansas,606.91,3,3,0.43041666666666667,Low Potential
+Westfield,New Jersey,519.72,4,4,0.43037499999999995,Low Potential
+Wheeling,Illinois,737.142,2,2,0.4257500000000001,Low Potential
+Peoria,Illinois,501.47999999999996,4,4,0.42462500000000003,Low Potential
+Utica,New York,575.05,3,3,0.42216666666666663,Low Potential
+Carlsbad,New Mexico,419.34,5,5,0.41762499999999997,Low Potential
+Lancaster,California,477.444,4,4,0.4169583333333334,Low Potential
+Rome,New York,534.852,3,3,0.41358333333333336,Low Potential
+Temecula,California,808.6659999999999,1,1,0.41350000000000003,Low Potential
+Boynton Beach,Florida,469.585,4,4,0.41337500000000005,Low Potential
+Texarkana,Arkansas,654.24,2,2,0.41275,Low Potential
+San Angelo,Texas,650.636,2,2,0.4115,Low Potential
+Grand Rapids,Michigan,392.59,5,5,0.4104583333333333,Low Potential
+Cary,North Carolina,505.20799999999997,3,3,0.4073333333333334,Low Potential
+Sunnyvale,California,636.21,2,2,0.4065,Low Potential
+Quincy,Illinois,330.284,6,6,0.4059166666666667,Low Potential
+Bristol,Tennessee,436.60200000000003,4,4,0.40487500000000004,Low Potential
+Woodbury,Minnesota,607.65,2,2,0.40425,Low Potential
+Cambridge,Massachusetts,502.09000000000003,3,3,0.40391666666666665,Low Potential
+Kissimmee,Florida,751.984,1,1,0.40258333333333335,Medium Potential
+Lebanon,Tennessee,488.896,3,3,0.3984166666666667,Low Potential
+Norwich,Connecticut,414.03999999999996,4,4,0.39795833333333336,Low Potential
+Encinitas,California,591.981,2,2,0.39625,Low Potential
+Saint Peters,Missouri,697.16,1,1,0.39175000000000004,Medium Potential
+Rockville,Maryland,469.77,3,3,0.39133333333333337,Low Potential
+Mentor,Ohio,693.13,1,1,0.3905,Low Potential
+Mansfield,Texas,558.877,2,2,0.3895833333333334,Low Potential
+Lake Charles,Louisiana,547.41,2,2,0.38716666666666666,Low Potential
+Macon,Georgia,364.01,4,4,0.38612500000000005,Low Potential
+Moorhead,Minnesota,543.86,2,2,0.38358333333333333,Low Potential
+Murfreesboro,Tennessee,337.333,4,4,0.3792083333333334,Low Potential
+Hoover,Alabama,525.85,2,2,0.3791666666666667,Low Potential
+Oak Park,Michigan,580.8599999999999,1,1,0.36750000000000005,Low Potential
+Pearland,Texas,494.996,2,2,0.36725,Low Potential
+Wilson,North Carolina,368.73199999999997,3,3,0.36491666666666667,Low Potential
+Mount Pleasant,South Carolina,545.94,1,1,0.36058333333333337,Medium Potential
+Harlingen,Texas,471.404,2,2,0.36016666666666663,Low Potential
+Taylor,Michigan,353.7,3,3,0.35991666666666666,Low Potential
+Morgan Hill,California,545.01,1,1,0.3593333333333334,Low Potential
+Kent,Ohio,346.302,3,3,0.35708333333333336,Low Potential
+Saint Louis,Missouri,285.96000000000004,4,4,0.356875,Low Potential
+Manteca,California,452.182,2,2,0.35483333333333333,Low Potential
+Helena,Montana,443.84,2,2,0.35091666666666665,Low Potential
+Hamilton,Ohio,328.224,3,3,0.3481666666666667,Low Potential
+Arvada,Colorado,503.4,1,1,0.3476666666666667,Low Potential
+Warner Robins,Georgia,434.8,2,2,0.3471666666666667,Low Potential
+Modesto,California,326.15000000000003,3,3,0.34658333333333335,Low Potential
+Coon Rapids,Minnesota,503.13,1,1,0.3464166666666667,Low Potential
+Covington,Washington,413.68,2,2,0.34116666666666673,Low Potential
+Garden City,Kansas,312.38,3,3,0.3401666666666667,Low Potential
+Missoula,Montana,487.984,1,1,0.33925,Medium Potential
+Murrieta,California,484.65,1,1,0.3378333333333333,Medium Potential
+Saginaw,Michigan,395.86,2,2,0.33708333333333335,Low Potential
+Lincoln Park,Michigan,387.602,2,2,0.33475,Low Potential
+Laguna Niguel,California,290.983,3,3,0.33425,Low Potential
+Orange,New Jersey,211.11,5,5,0.333625,Low Potential
+Thousand Oaks,California,238.804,4,4,0.33229166666666665,Low Potential
+New Bedford,Massachusetts,235.96999999999997,4,4,0.330875,Low Potential
+Caldwell,Idaho,455.63199999999995,1,1,0.32991666666666664,Low Potential
+Rancho Cucamonga,California,231.852,4,4,0.32962499999999995,Low Potential
+Tyler,Texas,347.206,2,2,0.32675000000000004,Low Potential
+Whittier,California,444.768,1,1,0.32549999999999996,Medium Potential
+Palm Coast,Florida,274.428,3,3,0.32508333333333334,Low Potential
+Saint Charles,Missouri,270.94,3,3,0.32149999999999995,Low Potential
+Andover,Massachusetts,435.84999999999997,1,1,0.32075,Low Potential
+Meridian,Idaho,329.052,2,2,0.3178333333333333,Low Potential
+Vacaville,California,423.28,1,1,0.3165833333333333,Medium Potential
+San Bernardino,California,256.136,3,3,0.314,Low Potential
+Hendersonville,Tennessee,319.538,2,2,0.3121666666666667,Low Potential
+Port Saint Lucie,Florida,248.95,3,3,0.3111666666666667,Low Potential
+Visalia,California,318.78000000000003,2,2,0.31075,Low Potential
+Summerville,South Carolina,406.93999999999994,1,1,0.30975,Low Potential
+Gaithersburg,Maryland,405.91999999999996,1,1,0.3085,Low Potential
+West Jordan,Utah,311.85,2,2,0.3066666666666667,Low Potential
+College Station,Texas,291.042,2,2,0.3015833333333333,Low Potential
+Allen,Texas,290.206,2,2,0.29924999999999996,Low Potential
+Santa Clara,California,222.192,3,3,0.299,Low Potential
+La Mesa,California,367.53000000000003,1,1,0.29841666666666666,Low Potential
+Normal,Illinois,366.744,1,1,0.29716666666666663,Low Potential
+Corpus Christi,Texas,220.54399999999998,3,3,0.2966666666666667,Low Potential
+North Charleston,South Carolina,284.25,2,2,0.29658333333333337,Low Potential
+Bolingbrook,Illinois,218.308,3,3,0.29508333333333336,Low Potential
+Eagan,Minnesota,214.28,3,3,0.2911666666666667,Low Potential
+Orland Park,Illinois,339.96,1,1,0.29008333333333336,Low Potential
+Daytona Beach,Florida,272.3315,2,2,0.2888333333333334,Low Potential
+Clifton,New Jersey,336.82,1,1,0.28758333333333336,Low Potential
+Haltom City,Texas,269.32800000000003,2,2,0.28633333333333333,Low Potential
+Redding,California,333.576,1,1,0.2861666666666667,Low Potential
+Woodland,California,264.66200000000003,2,2,0.2835,Low Potential
+Woonsocket,Rhode Island,195.55,3,3,0.2835,Low Potential
+Bellevue,Washington,103.622,5,5,0.2834583333333333,Low Potential
+Murray,Kentucky,264.62,2,2,0.28225000000000006,Low Potential
+Draper,Utah,263.65,2,2,0.2808333333333333,Low Potential
+Oswego,Illinois,321.978,1,1,0.28008333333333335,Low Potential
+Gulfport,Mississippi,166.5,3,3,0.27691666666666664,Low Potential
+Wausau,Wisconsin,317.48,1,1,0.2763333333333333,Low Potential
+Hot Springs,Arkansas,245.82999999999998,2,2,0.2753333333333334,Low Potential
+Delray Beach,Florida,242.536,2,2,0.2739166666666667,Low Potential
+Conway,Arkansas,301.96,1,1,0.27095833333333336,Low Potential
+Holyoke,Massachusetts,301.96,1,1,0.27095833333333336,Low Potential
+Malden,Massachusetts,228.38,2,2,0.267,Low Potential
+Bedford,Texas,226.25600000000003,2,2,0.26558333333333334,Low Potential
+Marion,Iowa,222.16,2,2,0.26183333333333336,Low Potential
+Ontario,California,283.92,1,1,0.2607083333333333,Low Potential
+Lake Elsinore,California,283.92,1,1,0.2607083333333333,Low Potential
+West Palm Beach,Florida,141.328,3,3,0.259,Low Potential
+Logan,Utah,280.276,1,1,0.25866666666666666,Low Potential
+Leominster,Massachusetts,217.49,2,2,0.25808333333333333,Low Potential
+Cedar Rapids,Iowa,278.4,1,1,0.2569166666666667,Low Potential
+Freeport,Illinois,215.82,2,2,0.2565,Low Potential
+Manhattan,Kansas,273.96,1,1,0.2540833333333333,Low Potential
+Bowling Green,Kentucky,211.81,2,2,0.2529166666666667,Low Potential
+East Point,Georgia,268.4,1,1,0.24891666666666667,Low Potential
+Saint Paul,Minnesota,192.82999999999998,2,2,0.2465,Low Potential
+Tuscaloosa,Alabama,175.70000000000002,2,2,0.24300000000000002,Low Potential
+West Allis,Wisconsin,250.48000000000002,1,1,0.24066666666666664,Low Potential
+Sterling Heights,Michigan,110.03999999999999,3,3,0.2395,Low Potential
+Kirkwood,Missouri,241.34,1,1,0.23483333333333334,Low Potential
+Thomasville,North Carolina,151.292,2,2,0.23158333333333334,Low Potential
+Las Cruces,New Mexico,98.77,3,3,0.23125,Low Potential
+Urbandale,Iowa,149.12,2,2,0.22999999999999998,Low Potential
+Escondido,California,94.548,3,3,0.22749999999999998,Low Potential
+Murray,Utah,146.318,2,2,0.22716666666666668,Low Potential
+Sanford,Florida,225.54600000000002,1,1,0.22683333333333333,Low Potential
+Medford,Oregon,90.218,3,3,0.22466666666666668,Low Potential
+Beaumont,Texas,143.524,2,2,0.22341666666666668,Low Potential
+The Colony,Texas,142.16000000000003,2,2,0.22183333333333333,Low Potential
+Apple Valley,Minnesota,137.94,2,2,0.2195,Low Potential
+Holland,Michigan,137.86,2,2,0.21825,Low Potential
+Coppell,Texas,135.936,2,2,0.217,Low Potential
+Pine Bluff,Arkansas,212.91,1,1,0.21633333333333335,Low Potential
+Homestead,Florida,132.552,2,2,0.21575000000000003,Low Potential
+New Albany,Indiana,209.55,1,1,0.21258333333333335,Low Potential
+Marlborough,Massachusetts,206.64,1,1,0.21100000000000002,Low Potential
+Cedar Hill,Texas,122.376,2,2,0.20966666666666667,Low Potential
+Longview,Washington,119.21000000000001,2,2,0.20825000000000002,Low Potential
+Garland,Texas,67.704,3,3,0.20816666666666667,Low Potential
+Bayonne,New Jersey,183.4,1,1,0.20625000000000002,Low Potential
+Elkhart,Indiana,171.43,1,1,0.20291666666666666,Low Potential
+Gladstone,Missouri,164.34,1,1,0.19958333333333336,Low Potential
+Coachella,California,163.55,1,1,0.19833333333333333,Low Potential
+Charlottesville,Virginia,102.60999999999999,2,2,0.19608333333333336,Low Potential
+Glenview,Illinois,158.376,1,1,0.19575,Low Potential
+Mesquite,Texas,52.147999999999996,3,3,0.19549999999999998,Low Potential
+Marysville,Washington,102.18,2,2,0.19483333333333333,Low Potential
+Rapid City,South Dakota,152.64000000000001,1,1,0.19383333333333336,Low Potential
+Santa Fe,New Mexico,100.92,2,2,0.19341666666666668,Low Potential
+Laurel,Maryland,152.59,1,1,0.19258333333333333,Low Potential
+Champaign,Illinois,151.96,1,1,0.19133333333333336,Low Potential
+Frankfort,Illinois,97.632,2,2,0.19108333333333333,Low Potential
+Pompano Beach,Florida,90.44,2,2,0.18733333333333332,Low Potential
+Commerce City,Colorado,146.352,1,1,0.18708333333333332,Low Potential
+Pico Rivera,California,145.9,1,1,0.18475000000000003,Low Potential
+Cottage Grove,Minnesota,144.35999999999999,1,1,0.18300000000000002,Low Potential
+Edinburg,Texas,88.27600000000001,2,2,0.18175000000000002,Low Potential
+Hillsboro,Oregon,87.838,2,2,0.1805,Low Potential
+Sierra Vista,Arizona,76.072,2,2,0.17483333333333334,Low Potential
+Cuyahoga Falls,Ohio,29.093999999999998,3,3,0.17383333333333337,Low Potential
+Rochester Hills,Michigan,132.52,1,1,0.1731666666666667,Low Potential
+Citrus Heights,California,129.39,1,1,0.17091666666666666,Low Potential
+Owensboro,Kentucky,71.18,2,2,0.17016666666666666,Low Potential
+Englewood,Colorado,124.056,1,1,0.16949999999999998,Low Potential
+Grove City,Ohio,123.588,1,1,0.16825,Low Potential
+Boca Raton,Florida,63.007999999999996,2,2,0.16466666666666668,Low Potential
+Palatine,Illinois,116.312,1,1,0.16366666666666668,Low Potential
+Loveland,Colorado,20.964000000000002,3,3,0.16325,Low Potential
+Frisco,Texas,57.504,2,2,0.16291666666666668,Low Potential
+Santa Maria,California,115.44,1,1,0.16241666666666668,Low Potential
+Burlington,Iowa,57.43,2,2,0.16166666666666668,Low Potential
+Linden,New Jersey,115.36,1,1,0.16099999999999998,Low Potential
+Conroe,Texas,111.672,1,1,0.15925,Low Potential
+Redmond,Washington,55.230000000000004,2,2,0.15916666666666665,Low Potential
+Clovis,New Mexico,111.42,1,1,0.158,Low Potential
+San Marcos,Texas,108.44399999999999,1,1,0.15483333333333335,Low Potential
+Lewiston,Maine,106.08000000000001,1,1,0.15341666666666667,Low Potential
+Hickory,North Carolina,40.764,2,2,0.14558333333333334,Low Potential
+Melbourne,Florida,95.616,1,1,0.14450000000000002,Low Potential
+Nashua,New Hampshire,35.94,2,2,0.14308333333333334,Low Potential
+Royal Oak,Michigan,35.34,2,2,0.1418333333333333,Low Potential
+San Clemente,California,90.05799999999999,1,1,0.1395,Low Potential
+Kenner,Louisiana,89.32000000000001,1,1,0.13825,Low Potential
+Bartlett,Tennessee,88.96,1,1,0.137,Low Potential
+Jefferson City,Missouri,86.62,1,1,0.13341666666666668,Low Potential
+New Castle,Indiana,84.61,1,1,0.132,Low Potential
+Sheboygan,Wisconsin,79.74000000000001,1,1,0.13008333333333333,Low Potential
+San Mateo,California,75.18,1,1,0.12741666666666668,Low Potential
+Shelton,Connecticut,73.33,1,1,0.1255,Low Potential
+North Miami,Florida,22.128,2,2,0.12483333333333332,Low Potential
+Littleton,Colorado,72.294,1,1,0.12391666666666667,Low Potential
+Bryan,Texas,65.84,1,1,0.11916666666666667,Low Potential
+Coral Gables,Florida,64.248,1,1,0.11775,Low Potential
+Lindenhurst,New York,55.48,1,1,0.11225,Low Potential
+Waukesha,Wisconsin,54.5,1,1,0.10975000000000001,Low Potential
+Bridgeton,New Jersey,52.410000000000004,1,1,0.1085,Low Potential
+Yucaipa,California,50.8,1,1,0.10583333333333333,Low Potential
+La Quinta,California,46.32,1,1,0.10408333333333333,Low Potential
+Hagerstown,Maryland,43.8,1,1,0.10233333333333333,Low Potential
+Bozeman,Montana,43.66,1,1,0.10108333333333333,Low Potential
+Danville,Illinois,43.372,1,1,0.09983333333333333,Low Potential
+Redwood City,California,41.904,1,1,0.09841666666666665,Low Potential
+Grapevine,Texas,41.528,1,1,0.09716666666666668,Low Potential
+Rogers,Arkansas,40.41,1,1,0.09483333333333333,Low Potential
+Niagara Falls,New York,34.992000000000004,1,1,0.09091666666666667,Low Potential
+Goldsboro,North Carolina,34.944,1,1,0.08966666666666666,Low Potential
+Davis,California,32.4,1,1,0.08825,Low Potential
+East Orange,New Jersey,31.8,1,1,0.087,Low Potential
+Greeley,Colorado,30.351999999999997,1,1,0.08541666666666667,Low Potential
+Waterloo,Iowa,30.32,1,1,0.08416666666666668,Low Potential
+Montebello,California,27.88,1,1,0.08133333333333334,Low Potential
+Danbury,Connecticut,27.46,1,1,0.07991666666666668,Low Potential
+Aberdeen,South Dakota,25.5,1,1,0.07866666666666666,Low Potential
+Atlantic City,New Jersey,23.36,1,1,0.07741666666666666,Low Potential
+Bullhead City,Arizona,22.288,1,1,0.075375,Low Potential
+Tinley Park,Illinois,22.288,1,1,0.075375,Low Potential
+Dublin,California,22.0,1,1,0.07241666666666667,Low Potential
+Altoona,Pennsylvania,20.451,1,1,0.06991666666666665,Low Potential
+Antioch,California,19.44,1,1,0.0685,Low Potential
+Norfolk,Nebraska,17.43,1,1,0.06691666666666667,Low Potential
+Mount Pleasant,Michigan,17.14,1,1,0.0655,Low Potential
+Portage,Indiana,16.28,1,1,0.06425,Low Potential
+Grand Island,Nebraska,15.96,1,1,0.063,Low Potential
+Margate,Florida,15.552,1,1,0.06174999999999999,Low Potential
+New Brunswick,New Jersey,14.77,1,1,0.0605,Low Potential
+Arlington Heights,Illinois,14.112,1,1,0.05925,Low Potential
+Chapel Hill,North Carolina,14.016,1,1,0.057999999999999996,Low Potential
+Rock Hill,South Carolina,11.85,1,1,0.056749999999999995,Low Potential
+Baytown,Texas,10.368,1,1,0.05533333333333333,Low Potential
+Oak Park,Illinois,10.192,1,1,0.05408333333333334,Low Potential
+Iowa City,Iowa,9.99,1,1,0.05283333333333333,Low Potential
+Lewiston,Idaho,9.584,1,1,0.051416666666666666,Low Potential
+Romeoville,Illinois,8.952,1,1,0.05016666666666667,Low Potential
+Billings,Montana,8.288,1,1,0.048916666666666664,Low Potential
+Port Orange,Florida,7.824,1,1,0.04766666666666667,Low Potential
+Deer Park,Texas,6.924,1,1,0.04625,Low Potential
+Missouri City,Texas,6.37,1,1,0.045,Low Potential
+Keller,Texas,6.0,1,1,0.04375,Low Potential
+Layton,Utah,4.96,1,1,0.042499999999999996,Low Potential
+Springdale,Arkansas,4.3,1,1,0.041249999999999995,Low Potential
+Auburn,Washington,4.18,1,1,0.04,Low Potential
+Everett,Washington,3.856,1,1,0.03875,Low Potential
+San Luis Obispo,California,3.62,1,1,0.037500000000000006,Low Potential
+Ormond Beach,Florida,2.808,1,1,0.03625,Low Potential
+Pensacola,Florida,2.214,1,1,0.034999999999999996,Low Potential
+Jupiter,Florida,2.064,1,1,0.03375,Low Potential
+Elyria,Ohio,1.824,1,1,0.032499999999999994,Low Potential
+Abilene,Texas,1.392,1,1,0.031249999999999997,Low Potential
